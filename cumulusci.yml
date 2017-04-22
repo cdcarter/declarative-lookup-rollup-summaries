@@ -1,0 +1,6 @@
+project:
+    name: declarative lookup rollup summaries
+    package:
+        name: dlrs
+        namespace:  
+        api_version: 40.0
